@@ -1,0 +1,5 @@
+Public class
+{
+void m1{
+syso("Hello");
+}
